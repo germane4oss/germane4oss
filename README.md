@@ -46,7 +46,4 @@ Goals:
 [
     "Complete Machine Learning Software Foundations Certificate",
 ]
-Hobbies: [
-    "Mountain Biking",
-    "]
 ```
