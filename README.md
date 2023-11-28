@@ -1,5 +1,5 @@
 ## German Silva
-I'm currently a student at the University of Toronto enrolled on the Machine Learning Foundation Certificate program. 
+I'm currently a student at the University of Toronto enrolled in the Machine Learning Foundation Certificate program. 
 
 
 ### A little bit about me....
